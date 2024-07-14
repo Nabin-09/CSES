@@ -2,8 +2,8 @@
 #include<vector>
 using namespace std;
 #define ll long long
-#define vl(x,n); vector<long long> x(n,0);
-#define take(v); for(auto &i:v) cin>>i;
+#define vl(x,n); vector<long long> x(n,0)
+#define take(v); for(auto &i:v) cin>>i
 int main()
 {
     ll n;
